@@ -1,6 +1,17 @@
 # movie-recommendation-engine
 Machine learning powered model to recommend movies based on your interests written in python.
 
+#### Libraries :
+
+- **sklearn.feature_extraction.text.CountVectorizer :**
+
+Convert a collection of text documents to a matrix of token counts
+
+- **sklearn.metrics.pairwise.cosine_similarity(X, Y=None, dense_output=True) :**
+
+Compute cosine similarity between samples in X and Y.
+Cosine similarity, or the cosine kernel, computes similarity as the normalized dot product of X and Y:
+
 
 **Notes :**
 
